@@ -196,7 +196,7 @@ if ( ! function_exists( 'twentytwentyfour_pattern_categories' ) ) :
 		register_block_pattern_category(
 			'twentytwentyfour_page',
 			array(
-				'label'       => _x( 'Pages Block', 'Block pattern category', 'twentytwentyfour' ),
+				'label'       => _x( 'New Pages', 'Block pattern category', 'twentytwentyfour' ),
 				'description' => __( 'A collection of full page layouts.', 'twentytwentyfour' ),
 			)
 		);
